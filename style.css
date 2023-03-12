@@ -1,0 +1,100 @@
+body {   
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-image: url(background.jpg)   
+}
+
+.container {
+font-family: 'Anton', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Poppins', sans-serif;
+}
+
+
+.black-back  {   
+    padding-bottom: 7%;
+    margin: auto;
+    margin-top: 1%;
+    width: 60%;
+    height: 93%;
+    background-color: rgba(000, 000, 000, .5);
+    border-radius: 25px;     
+}
+
+/* header */
+
+
+div > img  {    
+    padding-top: 10%;
+    width: 20%;
+    margin: auto;
+    display: block;    
+}
+
+div > h1 {    
+    color: rgb(0, 255, 13);
+    text-align: center;
+}
+
+/* navigatore */
+
+.row-prenotazione {       
+    margin: auto;
+    width: 79%;
+    padding: 5px;
+    background-color:rgb(0, 255, 13) ;      
+}
+
+.button {
+    margin: auto;
+   display: table;
+}
+
+div > button {
+    margin: 2px;
+}
+
+/* main section monopattini */
+
+.row-monopattini
+{
+    color: white;
+    margin: 0% 10% 
+}
+
+.row-monopattini > h2 {
+    display: inline-block;
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+main p {
+    margin: 0;
+    font-size: 17px;
+}
+
+/* barre carica */
+
+.barra-carica {
+    background-color: rgb(255, 207, 48);
+    border-radius: 5px;
+    height: 30px;
+    width: 400px;
+}
+
+.barra-carica2 {
+    background-color: rgb(182, 54, 31);
+    border-radius: 5px;
+    height: 30px;
+    width: 150px;
+}
+
+.barra-carica3 {
+    background-color: rgb(48, 255, 65);
+    border-radius: 5px;
+    height: 30px;
+    width: 600px;
+}
+
+
